@@ -19,10 +19,10 @@ These tasks are Completed under OctaNet Services Pvt. Ltd. Internship.
 - Once a task is marked as completed then it will moved to the *Completed* Section & Incomplete tasks remain at the *Pending* Section.
 
 ## Website Links:
-#### Landing Page 
+#### Landing Page -
 https://jashmit918-landing-page.vercel.app/
 <br>
-#### Todo App 
+#### Todo App -
 https://jashmit918-todo-app.vercel.app/
 
 
