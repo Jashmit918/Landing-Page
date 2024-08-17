@@ -16,7 +16,7 @@ These tasks are Completed under OctaNet Services Pvt. Ltd. Internship.
 - This allows user to Create and Delete the Task.
 - User can mark a Task as completed by clicking the check-box next to the Task.
 - Once a task is marked as completed then the Task is visually distinguished from pending tasks.
-- Once a task is marked as completed then it will moved to the **Completed** Section & Incomplete tasks remain at the **Pending** Section.
+- Once a task is marked as completed then it will moved to the *Completed* Section & Incomplete tasks remain at the *Pending* Section.
 
 ## Website Links:
 #### Landing Page 
