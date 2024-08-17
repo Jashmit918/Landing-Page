@@ -13,7 +13,8 @@ These tasks are Completed under OctaNet Services Pvt. Ltd. Internship.
 
 ## Brief Description (For ToDo App):
 - It is a Simple Task Management WebApp that help user to keep track of their tasks.
-- This allows user to Create and Delete the Task.
+- This allows user to Create, Edit and Delete the task.
+- User can also Edit and Delete the existing task.
 - User can mark a Task as completed by clicking the check-box next to the Task.
 - Once a task is marked as completed then the Task is visually distinguished from pending tasks.
 - Once a task is completed then it will move to the *Completed* Section & Incomplete tasks remain at the *Pending* Section.
