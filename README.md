@@ -4,8 +4,7 @@ These tasks are Completed under OctaNet Services Pvt. Ltd. Internship.
 ## Technologies and Platforms Used:
 1. HTML
 2. CSS
-3. JavaScript 
-4. Github
+3. JS
 
 ## Brief Description (For Landing Page):
 - Simple Landing Page using HTML, CSS & JS.
