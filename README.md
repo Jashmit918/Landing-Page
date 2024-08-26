@@ -19,7 +19,7 @@ These tasks are Completed under OctaNet Services Pvt. Ltd. Internship.
 - Once a task is completed then it will move to the *Completed* Section & Incomplete tasks remain at the *Pending* Section.
 - It has a **Clear All** Button to clear all the tasks.
 
-## Website Links:
+## Deployed Links:
 #### Landing Page ↓
 https://jashmit918-landing-page.vercel.app/
 
