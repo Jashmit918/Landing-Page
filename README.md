@@ -11,7 +11,7 @@ A Responsive Landing Page to test my Front-End Skills.
 - It has button to switch b/w Light and Dark Mode.
 
 
-## Deployed Links:
+## Deployed Link:
 https://jashmit918.github.io/Landing-Page
 
 
