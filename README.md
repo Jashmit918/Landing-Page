@@ -12,7 +12,6 @@ This task are Completed under OctaNet Services Pvt. Ltd. Internship.
 
 
 ## Deployed Links:
-#### Landing Page ↓
-https://jashmit918-landing-page.vercel.app/
+[CLick Here](https://jashmit918.github.io/Landing-Page/)
 
 
