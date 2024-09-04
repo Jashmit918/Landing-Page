@@ -1,5 +1,5 @@
 # Landing Page
-This task are Completed under OctaNet Services Pvt. Ltd. Internship.
+A Responsive Landing Page to test my Front-End Skills.
 
 ## Technologies and Platforms Used:
 1. HTML
@@ -12,6 +12,6 @@ This task are Completed under OctaNet Services Pvt. Ltd. Internship.
 
 
 ## Deployed Links:
-[CLick Here](https://jashmit918.github.io/Landing-Page/)
+https://jashmit918.github.io/Landing-Page
 
 
