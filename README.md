@@ -6,6 +6,7 @@ A Responsive Landing Page to test my Front-End Skills.
 2. CSS
 3. JS
 4. Git
+5. VS Code
 
 ## Brief Description:
 - Simple Landing Page using HTML, CSS & JS.
